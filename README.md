@@ -44,8 +44,7 @@ Excel | Power BI | Financial Modelling | Budgeting & Forecasting | Variance Anal
 🟢 Complete 🟡 In progress 🔵 Planned
 
 ## Resume
-Lindiwe_Sebolai_Finance_ Resume.pdf
-Available in the Resume section of this repository.
+[Download my Resume] Lindiwe_Sebolai_Finance_ Resume.pdf
 
 ## Contact
 
