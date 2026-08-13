@@ -42,9 +42,17 @@ Excel | Power BI | Financial Modelling | Budgeting & Forecasting | Variance Anal
 ## Project Status
 
 🟢 Complete 🟡 In progress 🔵 Planned
+* 🟢 Complete: FreshMart Retail - Executive Dashboard
+* 🟡 In progress: Berry & Blend Smoothie Co. - Three Statement Financial Model
+* 🟡 In progress: Urban Crew Cafe - Budget vs. Actual Analysis
+* 🟡 In progress: Prime Property Management - Reconciliation & Audit Challenge
+* 🟡 In progress: Swift Logistics - KPI Dashboard
+* 🔵 Planned : Bank/Supplier Reconciliation
+* 🔵 Planned: Month-End Close Simulation
+* 🔵 Planned: Power BI Finance Dashboard
 
 ## Resume
-[Download my Resume](https://github.com/sebolailindiwe/finance-business-portfoilo/README.md/main/Resume/Lindiwe_Sebolai_Finance_Resume.pdf)
+
 
 ## Contact
 
